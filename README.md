@@ -21,7 +21,7 @@ Last month, the customer churn rate was **27%**, which means that out of **7,043
 
 
 
-##Suggestions:
+### Suggestions:
 
 1.**The company should consider extending the basic contract plan from one month to three or six months. This would encourage customers to stay longer with the company and reduce the churn rate.**
 
